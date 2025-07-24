@@ -4,11 +4,11 @@ This repository contains a Jupyter Notebook (`linear_regression.ipynb`) that exp
 
 ## Table of Contents
 
-- [Project Overview](../medical_insurance_readme.md#project-overview)
-- [Dataset](../medical_insurance_readme.md#dataset)
-- [Analysis and Visualization](../medical_insurance_readme.md#analysis-and-visualization)
-- [Modeling](../medical_insurance_readme.md#modeling)
-- [Results](../medical_insurance_readme.md#results)
+- [Project Overview]
+- [Dataset]
+- [Analysis and Visualization]
+- [Modeling]
+- [Results]
 
 
 ## Project Overview
